@@ -4,19 +4,19 @@
 
 ![lgoo](./doc/logo-20240412.png)
 
-> Running www.perplexity.ai like app complete FREE, LOCAL, PRIVATE and NO GPU NEED on any computer
+> Running www.perplexity.ai like app completely FREE, LOCAL, PRIVATE, and NO GPU NEEDED on any computer
 > [!IMPORTANT]  
-> **If you are unable to use this project normally, it is most likely due to issues with your internet connection or your IP, you need free internet connection to use this project normally. 如果您无法正常使用此项目，很可能是由于您的 IP 存在问题，或者你不能自由访问互联网。**
+> **If you are unable to use this project normally, it is most likely due to issues with your internet connection or your IP. You need an internet connection to use this project normally. 如果您无法正常使用此项目，很可能是由于您的 IP 存在问题，或者你不能自由访问互联网。**
 
 ## What is FreeAskInternet
 
-FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, Without GPU needed. The user can ask a question and the system will use searxng to make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. All process running locally and  No GPU or OpenAI or Google API keys are needed.
+FreeAskInternet is a completely free, private and locally running search aggregator & answer generator using LLM, without the need for a GPU. The user can ask a question and the system will use searxng to make a multi-engine search and combine the search results to the ChatGPT3.5 LLM and generate the answer based on search results. All process runs locally and  np GPU or OpenAI or Google API keys are needed.
 
 ## Features
 
 - 🈚️ Completely FREE (no need for any API keys)
-- 💻 Completely LOCAL (no GPU need, any computer can run )
-- 🔐 Completely PRIVATE (all thing running locally, using custom llm)
+- 💻 Completely LOCAL (no GPU needed, any computer can run )
+- 🔐 Completely PRIVATE (all things running locally, using custom LLM)
 - 👻 Runs WITHOUT LLM Hardware (NO GPU NEED!)
 - 🤩 Using Free ChatGPT3.5 / Qwen / Kimi / ZhipuAI(GLM) API (NO API keys need! Thx OpenAI)
 - 🐵 Custom LLM(ollama,llama.cpp) support, Yes we love ollama!
@@ -39,10 +39,10 @@ FreeAskInternet is a completely free, private and locally running search aggrega
 
 ## How It Works?
 
-1. System get user input question in FreeAskInternet UI interface( running locally), and call searxng (running locally) to make search on multi search engine.
-2. crawl search result links content and pass to ChatGPT3.5 / Kimi / Qwen / ZhipuAI / ollama (by using custom llm), ask LLM to answer user question based on this contents as references.
+1. System gets user input question in FreeAskInternet UI interface( running locally), and calls searxng (running locally) to make search on multi-search engine.
+2. Crawl search result links content and pass to ChatGPT3.5 / Kimi / Qwen / ZhipuAI / ollama (by using custom LLM), ask LLM to answer user question based on this content as references.
 3. Stream the answer to Chat UI.
-4. We support custom LLM setting, so theoretically infinite llm support.
+4. We support custom LLM setting, so theoretically infinite LLM support.
 
 ## Status
 
@@ -68,7 +68,7 @@ Reference : [https://github.com/LLM-Red-Team/kimi-free-api](https://github.com/L
 
 ![setting token](./doc/Screenshot-3.png)
 
-## How to using custom LLM like ollama? (Yes we love ollama)
+## How to use custom LLM like ollama? (Yes we love ollama)
 
 1. start ollama serve
 
