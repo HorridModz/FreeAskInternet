@@ -5,6 +5,7 @@
 ![lgoo](./doc/logo-20240412.png)
 
 > Running www.perplexity.ai like app complete FREE, LOCAL, PRIVATE and NO GPU NEED on any computer
+
 > [!IMPORTANT]  
 > **If you are unable to use this project normally, it is most likely due to issues with your internet connection or your IP, you need free internet connection to use this project normally. 如果您无法正常使用此项目，很可能是由于您的 IP 存在问题，或者你不能自由访问互联网。**
 
